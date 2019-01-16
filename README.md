@@ -17,6 +17,8 @@ Create and add a new Spark service to your project:  Follow defaults and lite pl
 
 Create an access token for the project.  Give it a name and add Editor privileges.
 
+Add the ADMISSIONS.csv, DIAGNOSES_ICD.csv, ICUSTAYS.csv and PATIENTS.csv files to the project.
+
 I have made some small adaptions, but the main objectives:
 
 1.  use the notebook to explore and manipulate data.  Save that data to a csv file.
