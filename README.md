@@ -12,8 +12,10 @@ To explore these materials, register for Watson Studio on IBM Cloud:  https://ib
 Then, create a project and create a new Storage instance.  Follow defaults.  Lite Plan.
 In your project, go to services page.  Create 2 new services:
 Create and add a new Watson Machine Learning service:  Follow defaults and lite plan
+
 Create and add a new Spark service to your project:  Follow defaults and lite plan
 
+Create an access token for the project.  Give it a name and add Editor privileges.
 
 I have made some small adaptions, but the main objectives:
 
